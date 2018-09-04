@@ -1,5 +1,4 @@
-# MyNestEggWeb
-Staging server : https://mynestegg.herokuapp.com/
+# Nextjs-redux-antd-starter
 <br/>
 <br/>
 Reactjs + Redux + antd + next.js<br/>
